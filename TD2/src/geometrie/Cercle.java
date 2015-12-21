@@ -21,7 +21,7 @@ public class Cercle extends FormeBasique
 	
 	public int getRayon()
 	{
-		return rayon;
+		return rayon +64;
 	}
 	
 	public void setRayon(int rayon)
